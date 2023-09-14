@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image:url(mandela.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #7e3434;
+    border-radius: 8px;
+    box-shadow: 0 0 10px white;
+    text-align: center;
+    margin-top: 10%;
+    margin-right: 10px;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+.slider-container {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+    color: #fff;
+}
+
+#slider {
+    width: 100%;
+}
+
+#slider-value {
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+button {
+    background-color: #f7f5f6;
+    color:black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#quote-container {
+    margin-top: 20px;
+    color: white;
+}
+
+#quote-text {
+    font-size: 18px;
+   
+}
+.mi{
+    color: white;
+    text-align: right;
+}
